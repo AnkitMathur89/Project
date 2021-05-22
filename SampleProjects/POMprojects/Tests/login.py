@@ -1,4 +1,4 @@
-import HtmlTestRunner
+#import HtmlTestRunner
 from selenium import webdriver
 import time
 import unittest
